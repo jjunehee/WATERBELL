@@ -11,24 +11,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![앱로고](https://github.com/jjunehee/WATERBELL/assets/83155528/d4ef4c1a-3209-41fc-944c-6131c05ab5eb)
 # 지하차도, 지하주차장 침수관리 시스템
 
@@ -99,7 +81,7 @@
 
 | IoT 수위 측정 |    차수판 제어  |전광판 제어|
 | :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| [![IoT수위측정](./img/IoT수위측정.mp4)](https://github.com/jjunehee/WATERBELL/assets/83155528/f194dc78-c13e-46a2-a85c-a8fa0c3f15b0)  | [![차수판제어](./img/차수판제어.mp4)](https://github.com/jjunehee/WATERBELL/assets/83155528/6a52a636-3285-4e0d-a41b-68544c62625f)   | [![전광판제어](./img/전광판제어.mp4)](https://github.com/jjunehee/WATERBELL/assets/83155528/d9b7ee8c-0872-4424-a21a-344a19de536d)               |
+| [![IoT수위측정](./img/IoT수위측정.mp4)](https://github.com/jjunehee/WATERBELL/assets/83155528/f194dc78-c13e-46a2-a85c-a8fa0c3f15b0)  | [![차수판제어](./img/차수판제어.mp4)](https://github.com/jjunehee/WATERBELL/assets/83155528/6a52a636-3285-4e0d-a41b-68544c62625f)   | [![전광판제어](./img/전광판제어.gif)] |
 
 ### 현황판
 
